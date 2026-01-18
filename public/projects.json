@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://github.com/H3RI3R/SchoolIdcard",
+    "projectName": "School ID Card Management System",
+    "category": "Education / ERP",
+    "languages": [
+      "Java",
+      "Spring Boot",
+      "REST APIs",
+      "MySQL",
+      "JWT Security"
+    ],
+    "image": "/images/idcard.png"
+  },
+  {
+    "url": "https://github.com/H3RI3R/hms_backend",
+    "projectName": "Hotel Management System (HMS)",
+    "category": "Hospitality / ERP",
+    "languages": [
+      "Java",
+      "Spring Boot",
+      "Hibernate",
+      "REST APIs",
+      "MySQL"
+    ],
+    "image": "/images/Dashboard.png"
+  },
+  {
+    "url": "https://github.com/H3RI3R",
+    "projectName": "School ERP System",
+    "category": "Education / Enterprise Application",
+    "languages": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "Redis",
+      "Role-Based Access"
+    ],
+    "image": "/images/erp.png"
+  }
+]
